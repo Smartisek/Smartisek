@@ -29,7 +29,7 @@
 <br>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Smartisek&theme=gotham&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartisek)](https://github.com/Smartisek/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartisek&hide=css,scss,html&theme=tokyonight)
 <br/><br/>    
 </div>
 
