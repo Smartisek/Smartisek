@@ -3,4 +3,5 @@
 </h1>
 
 <h3 align="center">My name is Dominik, I am 24 year old Czech second year student of Computing in Games Development at Dundalk Institute of Technology Ireland.</h3>
+<h2 align="center">Currently on a lookout for an Internship.</h2>
 
