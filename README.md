@@ -5,3 +5,10 @@
 <h3 align="center">My name is Dominik, I am 24 year old Czech second year student of Computing in Games Development at Dundalk Institute of Technology Ireland.</h3>
 <h3 align="center">Currently on a lookout for an Internship.</h3>
 
+<div align="center"> 
+  <a href="mailto:domalipdominik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/dominik-domalip-296408226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
