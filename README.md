@@ -25,7 +25,6 @@
 [![Spotify](https://novatorem-git-main-smartiseks-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21eb7uqfg2bkqxu6h7uwr4h5y)
 
 <br/>
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
