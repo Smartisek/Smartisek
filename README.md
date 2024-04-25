@@ -41,11 +41,14 @@
 <img src="https://github.com/Smartisek/Smartisek/blob/main/space.gif" width="512" />
 <h3 align="center">Overall mark 83%</h3>
 <hr/>
+
 <h3 align="center">🪲Bug's Life🪲</h3>
-<h4 align="center">C++ project: system simulating different behaviour variations of bugs placed on a board and fighting each other with ability for player to control one super bug.
+
+<h4 align="center">C++ project: system simulating different behaviour variations of bugs placed on a board, fighting each other with ability for player to control one super bug.</h4>
 <img src="https://github.com/Smartisek/Smartisek/blob/main/Bugs_life.png" width="512" />
 <img src="https://github.com/Smartisek/Smartisek/blob/main/bugslife.gif" width="512" />
 <h3 align="center">Overall mark TBA</h4>  
+ 
 <hr/>
 <h3 align="center">🖥️Multi-User Client-Server Application🖥️
 <hr/> 
