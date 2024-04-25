@@ -35,5 +35,8 @@
 </div>
 
 <h2 align="center">👨‍🎓School Projects👨‍🎓</h2>
+<h4 align="center">First year project which focused on creating a simple game of our own taste, using P5.js, javascript library for creative coding.</h4>
 
+
+<h3 align="center">Overall mark 83%</h3>
 <hr/>
