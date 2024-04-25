@@ -34,6 +34,6 @@
 <br/><br/>    
 </div>
 
-<br/><br/>
+<h2 align="center">👨‍🎓School Projects👨‍🎓</h2>
 
 <hr/>
