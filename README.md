@@ -42,7 +42,7 @@
 <h3 align="center">Overall mark 83%</h3>
 <hr/>
 
-<h3 align="center">🪲Bug's Life🪲</h3>
+<h3 align="center"><a href="https://github.com/Smartisek/CA_Bugs_life">🪲Bug's Life🪲</a></h3>
 
 <h4 align="center">C++ project: system simulating different behaviour variations of bugs placed on a board, fighting each other with ability for player to control one super bug.</h4>
 <img src="https://github.com/Smartisek/Smartisek/blob/main/Bugs_life.png" width="512" />
