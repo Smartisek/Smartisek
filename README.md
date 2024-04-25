@@ -35,7 +35,10 @@
 </div>
 
 <h2 align="center">👨‍🎓School Projects👨‍🎓</h2>
+<h3 align="center">🚀Space Dommingus🚀</h3>
 <h4 align="center">First year project which focused on creating a simple game of our own taste, using P5.js, javascript library for creative coding.</h4>
+<img src="https://github.com/Smartisek/Smartisek/blob/main/spacedommingus.png" width="512" />
+<img src="https://github.com/Smartisek/Smartisek/blob/main/space.gif" width="512" />
 
 
 <h3 align="center">Overall mark 83%</h3>
