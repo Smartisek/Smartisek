@@ -54,5 +54,8 @@
 <hr/>
 
  <h3 align="center"><a href="https://github.com/Smartisek/CollaboritiveProjectFirstYear">🚘Driving Simulator🚘</a></h3>
+
+ <h4 align="center">This was a project for subject Collaborative Project. The goal of this subject was to come up with a concept idea with a team of three and over period of time work on the project to deliver. My main focus was on self-study of Unreal Engine and creating the product, my other classmates focused on 3D models and sound design.</h4>
+ <img src="https://github.com/Smartisek/Smartisek/blob/main/collaborativeProject.gif" width="512" />
 <hr/> 
 <h3 align="center">JavaScript Game Engine
