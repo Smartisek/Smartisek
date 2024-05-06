@@ -51,7 +51,7 @@
 <h3 align="center"><a href="https://github.com/Smartisek/OOP_CA5">🖥️Multi-User Client-Server Application🖥️</a></h3>
 <h4 align="center">Java project with focus on multi-user client- server app communicating with datab base and manipulation data with, and download images from server, with use of threads. This was also a part of Applied Software Management project where we had to collaborate on building this app with use of Scrumwise and its weekly sprints.</h4>
 <img src="https://github.com/Smartisek/Smartisek/blob/main/javaGif.gif" />
-<img src="https://github.com/Smartisek/Smartisek/blob/main/java2Gif.gif" />
+<img src="https://github.com/Smartisek/Smartisek/blob/main/java2Gif.gif" width="1024"/>
 <hr/>
 
  <h3 align="center"><a href="https://github.com/Smartisek/CollaboritiveProjectFirstYear">🚘Driving Simulator🚘</a></h3>
