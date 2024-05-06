@@ -39,7 +39,6 @@
 <h4 align="center">First year project which focused on creating a simple game of our own taste, using P5.js, javascript library for creative coding.</h4>
 <img src="https://github.com/Smartisek/Smartisek/blob/main/spacedommingus.png" width="512" />
 <img src="https://github.com/Smartisek/Smartisek/blob/main/space.gif" width="512" />
-<h3 align="center">Overall mark 83%</h3>
 <hr/>
 
 <h3 align="center"><a href="https://github.com/Smartisek/CA_Bugs_life">🪲Bug's Life🪲</a></h3>
@@ -47,7 +46,6 @@
 <h4 align="center">C++ project: system simulating different behaviour variations of bugs placed on a board, fighting each other with ability for player to control one super bug.</h4>
 <img src="https://github.com/Smartisek/Smartisek/blob/main/Bugs_life.png" width="512" />
 <img src="https://github.com/Smartisek/Smartisek/blob/main/bugslife.gif" width="512" />
-<h3 align="center">Overall mark TBA</h4>  
  
 <hr/>
 <h3 align="center">🖥️Multi-User Client-Server Application🖥️
@@ -57,6 +55,8 @@
 
  <h4 align="center">This was a project for subject Collaborative Project. The goal of this subject was to come up with a concept idea with a team of three and over period of time work on the project to deliver. My main focus was on self-study of Unreal Engine and creating the product, my other classmates focused on 3D models and sound design.</h4>
  <img src="https://github.com/Smartisek/Smartisek/blob/main/collaborativeProject.gif" width="512" />
- <h3 align="center">Overall mark 78%</h3>
 <hr/> 
-<h3 align="center">JavaScript Game Engine
+<h3 align="center"><a href="https://github.com/Smartisek/CAjsGameEngine?tab=readme-ov-file">JavaScript Game Engine</a></h3>
+<h4 align="center">Creating a simple game with JavaScript game engine, understanding how the engine works, ability to structure and organize code, and make our own improvements to the engine.</h4>
+<img src="https://github.com/Smartisek/Smartisek/blob/main/gameEngineGif.gif" width="512" />
+<hr/>
