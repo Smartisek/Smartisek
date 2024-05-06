@@ -59,6 +59,12 @@
  <img src="https://github.com/Smartisek/Smartisek/blob/main/collaborativeProject.gif" width="512" />
 <hr/> 
 
+<h3 align="center"><a href="https://github.com/Smartisek/Ca1_2D_Game?tab=readme-ov-file">Ninja Adventure</a></h3>
+<h4 align="center">Simple platformer game created with Unity Game Engine with coding in C#.</h4>
+<img src="https://github.com/Smartisek/Smartisek/blob/main/ninjaGif.gif" width="512" />
+<img src="https://github.com/Smartisek/Smartisek/blob/main/ninja2Gif.gif" width="512" />
+<hr/>
+
 <h3 align="center"><a href="https://github.com/Smartisek/CAjsGameEngine?tab=readme-ov-file">JavaScript Game Engine</a></h3>
 <h4 align="center">Creating a simple game with JavaScript game engine, understanding how the engine works, ability to structure and organize code, and make our own improvements to the engine.</h4>
 <img src="https://github.com/Smartisek/Smartisek/blob/main/gameEngineGif.gif" width="512" />
