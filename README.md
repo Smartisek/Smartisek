@@ -36,9 +36,9 @@
 
 <h2 align="center">👨‍🎓School Projects👨‍🎓</h2>
 <h3 align="center"><a href="https://github.com/Tomascus/Darkspire"> 🌑Darkspire🌑</a></h3>
+<h4 align="center">Third year group project created in Unity using C# and as project management with Scrumwise.</h4>
+<h4 align="center"><a href="https://youtu.be/a0iik89j2Tc?si=L0bSa-e7w-lyQxfj"> Official Trailer</a></h4>
 <img src="https://github.com/Smartisek/Smartisek/blob/main/gifDarkspire.gif" width="512" />
-<h3 align="center"> Official Trailer </h3>
-[![Watch the video](https://img.youtube.com/vi/a0iik89j2Tc/maxresdefault.jpg)](https://youtu.be/a0iik89j2Tc)
 <hr/>
 
 <h3 align="center"><a href="https://github.com/Smartisek/Code-File-Space-DOMINGUS-CA">🚀Space Dommingus🚀</a></h3>
