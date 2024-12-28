@@ -35,6 +35,12 @@
 </div>
 
 <h2 align="center">👨‍🎓School Projects👨‍🎓</h2>
+<h3 align="center"><a href="https://github.com/Tomascus/Darkspire"> 🌑Darkspire🌑</a></h3>
+<img src="https://github.com/Smartisek/Smartisek/blob/main/gifDarkspire.gif" width="512" />
+<h3 align="center"> Official Trailer </h3>
+[![Watch the video](https://img.youtube.com/vi/a0iik89j2Tc/maxresdefault.jpg)](https://youtu.be/a0iik89j2Tc)
+<hr/>
+
 <h3 align="center"><a href="https://github.com/Smartisek/Code-File-Space-DOMINGUS-CA">🚀Space Dommingus🚀</a></h3>
 <h4 align="center">First year project which focused on creating a simple game of our own taste, using P5.js, javascript library for creative coding.</h4>
 <img src="https://github.com/Smartisek/Smartisek/blob/main/spacedommingus.png" width="512" />
