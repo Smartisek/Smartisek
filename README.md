@@ -33,8 +33,13 @@
  
 <br/><br/>    
 </div>
-
 <h2 align="center">👨‍🎓School Projects👨‍🎓</h2>
+<h3 align="center"><a href="https://github.com/Smartisek/2024-GD3-3DGED-ICA"> 🌍Park Ecorasitor🌍</a></h3>
+<h4 align="center">Third year individual project created in Unity using C#.</h4>
+<img src="https://github.com/Smartisek/Smartisek/blob/main/Screenshot%202025-01-12%20145912.png" width="512" />
+<h4 align="center"><a href="https://www.youtube.com/watch?v=L6HhcN8uat8"> Walkthrough</a></h4>
+<hr/>
+
 <h3 align="center"><a href="https://github.com/Tomascus/Darkspire"> 🌑Darkspire🌑</a></h3>
 <h4 align="center">Third year group project created in Unity using C# and as project management with Scrumwise.</h4>
 <h4 align="center"><a href="https://youtu.be/a0iik89j2Tc?si=L0bSa-e7w-lyQxfj"> Official Trailer</a></h4>
