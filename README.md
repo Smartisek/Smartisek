@@ -30,9 +30,17 @@
 <br/><br/>    
 </div>
 <h2 align="center">👨‍🎓School Projects👨‍🎓</h2>
-<h3 align ="center">🍺<a href="https://youtu.be/WP1BBMCuzXU">Ale&Ambition🍺</h3>
+
+<h3 align ="center"><a href="https://youtu.be/WP1BBMCuzXU">🍺Ale&Ambition🍺</h3>
 <h4>Fourth year final project created in Unreal Engine.</h4>
 <img src="https://github.com/Smartisek/Smartisek/blob/main/ExpoBannerFinalFR.png" width="512" />
+<hr/>
+
+<h3 align ="center"><a href="https://www.youtube.com/watch?v=cXfnwd4oAMo">🖼️Art Gallery Escape🖼️</h3>
+ <h4>Individual project created in Unreal Engine.</h4>
+ <img src="https://github.com/Smartisek/Smartisek/blob/main/artgallery.png" width="512" />
+<hr/>
+ 
 <h3 align="center"><a href="https://github.com/Smartisek/2024-GD3-3DGED-ICA"> 🌍Park Ecorasitor🌍</a></h3>
 <h4 align="center">Third year individual project created in Unity using C#.</h4>
 <img src="https://github.com/Smartisek/Smartisek/blob/main/Screenshot%202025-01-12%20145912.png" width="512" />
