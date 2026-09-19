@@ -20,10 +20,6 @@
     <img src="https://skillicons.dev/icons?i=unity,unreal,ps,blender,clion,idea,vscode" /><br>
 </div>
 
-<h2 align="center">🎧 Spotify Playing 🎧</h2>
-
-[![Spotify](https://novatorem-git-main-smartiseks-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21eb7uqfg2bkqxu6h7uwr4h5y)
-
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -34,6 +30,9 @@
 <br/><br/>    
 </div>
 <h2 align="center">👨‍🎓School Projects👨‍🎓</h2>
+<h3 align ="center">🍺<a href="https://youtu.be/WP1BBMCuzXU">Ale&Ambition🍺</h3>
+<h4>Fourth year final project created in Unreal Engine.</h4>
+<img src="https://github.com/Smartisek/Smartisek/blob/main/ExpoBannerFinalFR.png" width="512" />
 <h3 align="center"><a href="https://github.com/Smartisek/2024-GD3-3DGED-ICA"> 🌍Park Ecorasitor🌍</a></h3>
 <h4 align="center">Third year individual project created in Unity using C#.</h4>
 <img src="https://github.com/Smartisek/Smartisek/blob/main/Screenshot%202025-01-12%20145912.png" width="512" />
